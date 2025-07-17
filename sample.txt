@@ -1,12 +1,1 @@
-sample.txt
-안녕하세요git git a
-dwqdwq
-dwqdqwcqcqwwqdwqcwqdw
-
-eff
-efwfwe
-few
-이거 뭐지
-ㅇㅈㅇㅈㅂ
-ㅇㅈㅇㅈㅂㅇㅇㅈㅂㅈㅂ
-ㅇㅈㅇㅂ
+안녕하세요
